@@ -87,6 +87,10 @@ body {
 	opacity: 1;
 	transition-delay: 400ms;
 }
+
+.box:focus {
+  transform: rotateX(-10px);
+}
   
 
   
